@@ -1,7 +1,7 @@
 # 🎤 Mock Interview Questions & Answers
 
 > **Purpose:** Practice broad behavioral and motivational questions you may face in any screen, phone, or early-round interview.  
-> All answers follow the **STAR method** (Situation → Task → Action → Result) and are calibrated for a ~90-second verbal response.
+> Most answers are structured around the **STAR method** (Situation → Task → Action → Result), and all are calibrated for a ~90-second verbal response.
 
 ---
 
